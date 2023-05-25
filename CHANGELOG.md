@@ -1,5 +1,9 @@
 # Log of Changes Which Modify This Library and are Logged Here
 
+## 2.1
+
+- Add `!!bigint` tag
+
 ## 2.0
 
 - Update to yaml version 2.
